@@ -18,7 +18,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Enable IIS
+- Enable Internet Information Services (IIS)
 - Install Web platform installer
 - Install Mysql, setup username and password
 - Install C++ redistributable
