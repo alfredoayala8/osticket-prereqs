@@ -21,7 +21,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Enable IIS
 - Install Web platform installer
 - Install Mysql, setup username and password
-- Install C++ 
+- Install C++ redistributable
 - Install OsTicket 
 
 <h2>Installation Steps</h2>
